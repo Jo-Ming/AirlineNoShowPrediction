@@ -135,6 +135,7 @@ significance of each feature for the output. This was derived by calculating sha
 
 I forgot what these are but they look cool
 ![pnrdaily](https://user-images.githubusercontent.com/60296036/212786484-09be1f61-7a9d-4128-8c17-e4351145d394.JPG)
+![advancedBookingClass](https://user-images.githubusercontent.com/60296036/212789898-62bfd79c-a3ab-4c9d-97ac-59ffeadb9090.JPG)
 
 ![pnrDailyNS](https://user-images.githubusercontent.com/60296036/212786495-ae9b7a3a-1385-4748-88b3-eb624f9e353b.JPG)
 
