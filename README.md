@@ -138,4 +138,16 @@ I forgot what these are but they look cool
 
 ![pnrDailyNS](https://user-images.githubusercontent.com/60296036/212786495-ae9b7a3a-1385-4748-88b3-eb624f9e353b.JPG)
 
-But ultimately yeah. I think this is pretty implementable for most ML models and datasets. Peace out!
+Whats better than a confusion matrix for the output? A massive confusion matrix for all of the input features!!! A heatmap!!
+![BigHeatmap](https://use![Capture](https://user-images.githubusercontent.com/60296036/212789186-3ca01622-d79d-43be-8b96-33ec23129404.JPG)
+r-images.githubusercontent.com/60296036/212789143-4149eed9-e8d5-4905-8e3b-fffdd3005981.JPG)
+
+![QuantiveFieldsHeatmap](https://user-images.githubusercontent.com/60296036/212789154-a8b323c6-67fd-47b0-9ad4-43cb8dfe9678.JPG)
+![ViolationHeatmap](https://user-images.githubusercontent.com/60296036/212789170-3295672d-c3f9-49b9-96a1-3615357683bd.JPG)
+
+Oh and this was something I found funny. Males are more likely to miss flights (maybe because business trips are more likely to be missed?)
+0-female 1-male 2-other. So we know that the further in advance people book the less likely they miss their flight (I had some other graphs somewhere too to support this but the SHAP values also reflect this.). It shows here that women tend to book further in advance and are thus less likely to miss their flight. People of gender other are more likely to travel in groups haha. 
+![gendercodeAdvanceBookinNoinparty](https://user-images.githubusercontent.com/60296036/212789312-46508658-afad-469d-94d0-30d09b5ef221.JPG)
+The explanation is not as fun though as airlines will fly out their whole crew and not assign them a gender.
+
+But ultimately yeah. I think this is pretty implementable for most ML models and datasets and the visualisation tools are pretty powerful, i think there are a few more plots I havent shown images here for. Peace out!
