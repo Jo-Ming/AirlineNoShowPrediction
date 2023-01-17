@@ -139,9 +139,12 @@ I forgot what these are but they look cool
 
 ![pnrDailyNS](https://user-images.githubusercontent.com/60296036/212786495-ae9b7a3a-1385-4748-88b3-eb624f9e353b.JPG)
 
-Whats better than a confusion matrix for the output? A massive confusion matrix for all of the input features!!! A heatmap!!
-![BigHeatmap](https://use![Capture](https://user-images.githubusercontent.com/60296036/212789186-3ca01622-d79d-43be-8b96-33ec23129404.JPG)
-r-images.githubusercontent.com/60296036/212789143-4149eed9-e8d5-4905-8e3b-fffdd3005981.JPG)
+A heatmap of all feature relative correlations
+
+![BigHeatmap](https://user-images.githubusercontent.com/60296036/212790578-6fa8ec89-c0d0-4301-84bd-914c462127aa.JPG)
+
+![Capture](https://user-images.githubusercontent.com/60296036/212790589-f35a2281-ed68-4389-8ca3-0eca792aafa0.JPG)
+
 
 ![QuantiveFieldsHeatmap](https://user-images.githubusercontent.com/60296036/212789154-a8b323c6-67fd-47b0-9ad4-43cb8dfe9678.JPG)
 ![ViolationHeatmap](https://user-images.githubusercontent.com/60296036/212789170-3295672d-c3f9-49b9-96a1-3615357683bd.JPG)
