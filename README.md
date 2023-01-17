@@ -138,4 +138,4 @@ I forgot what these are but they look cool
 
 ![pnrDailyNS](https://user-images.githubusercontent.com/60296036/212786495-ae9b7a3a-1385-4748-88b3-eb624f9e353b.JPG)
 
-But ultimately yeah. I think this is pretty implementable for most ML models and datasets. Good luck!
+But ultimately yeah. I think this is pretty implementable for most ML models and datasets. Peace out!
