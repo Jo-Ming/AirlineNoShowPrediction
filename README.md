@@ -4,7 +4,7 @@ A tool kit I designed/made a while back for shaping/saving and manipulating data
 Inside of the tools there is a Readme.py showing how to use these tools for machine learning models.
 There are also some visualisation tools for visualizing data used for machine learning models as well as graphs visualizing the output of the models.
 This will work for any kind of data in the format of a .csv or .json file and can save manipulated training as either.
-The main idea was to create a dataSpout object which spits out streams of data from json or csv files in a format ready to be parsed into a Neural Network (This was also used with other machine learning approaches such a random forest, decision tree and a couple others I have forgotten). 
+The main idea was to create a dataSpout object which spits out streams of data from json or csv files in a format ready to be parsed into a Neural Network (This was also used with other machine learning approaches such a random forest, decision tree and a couple others I have forgotten). There is a lot of functionality in the dataspout not documented such as different normalisation methods using standard deviation or hyberbolic tan funcitons. I may create a table at a later date. 
 
 ## Table Of Functions.
 remember to initialise the controller like so:
